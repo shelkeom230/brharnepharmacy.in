@@ -245,7 +245,7 @@
                         <a class="nav-link " href="#">Events</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="#">Faculty</a>
+                        <a class="nav-link " href="faculty.php">Faculty</a>
                     </li>
                     <li class="nav-item">
                         <pre style="font-family: 'Poppins','sans-serief';font-weight: normal;"><a class="nav-link " href="#">Other Institutes</a></pre>

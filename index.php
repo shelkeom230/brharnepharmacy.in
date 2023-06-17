@@ -87,14 +87,19 @@ The college has well-equipped laboratories, spacious classrooms, a gym and games
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="card shadow-lg">
                         <img src="assets/img/application.jpeg" alt="application" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <div class="card shadow-lg">
                         <img src="assets/img/new year.jpeg" alt="new year" class="img-fluid">
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card shadow-lg">
+                        <img src="assets/img/poster1.jpeg" alt="new year" class="img-fluid">
                     </div>
                 </div>
 
